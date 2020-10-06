@@ -1,10 +1,10 @@
 # weather-application
 
-in this application we are using the OpenWeather API to know the weather of a city.
+in this application we are using the [OpenWeather] API to know the weather of a city.
 
 in order to run the application we need to execute the command:
 
-# npm init
+### npm init
 
 to install the necessary project dependencies.
 
